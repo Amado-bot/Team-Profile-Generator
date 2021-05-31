@@ -13,6 +13,7 @@ THe following video demonstrates how the application works.
 
 ## Team Profile
 ![team profile](assets\images\Team-profile.JPG)
+![test pass](assets\images\tests.JPG)
 
 
 ## Table of Contents
